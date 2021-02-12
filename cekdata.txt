@@ -1,0 +1,10 @@
+artikel
+artikeldosen
+bidangpenelitian
+bidangpenelitian
+detailpenelitian
+detailpenelitiandosen
+detailpengabdiandosen
+dosen
+jenispenelitian
+
